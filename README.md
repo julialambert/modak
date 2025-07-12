@@ -29,4 +29,7 @@ This is a mobile application built with **React Native + TypeScript**. It displa
 1. **Clone the repository**
    ```bash
    git clone https://github.com/julialambert/modak.git
-   
+
+   cd modak
+
+   npm install
